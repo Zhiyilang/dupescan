@@ -137,3 +137,17 @@ SUMMARY: 3 duplicate files across 1 groups, reclaim 4.68 MB
 
 💝 If dupescan saved you some disk (or time), consider supporting its development:
 **爱发电 / Afdian → https://afdian.com/a/Zhiyilang** · ⭐ Star the repo!
+
+<!-- cross-links -->
+
+## 🔗 More zero-dependency tools
+
+All of these are single-file, pure Python-stdlib CLIs — offline, no `pip install`, cross-platform:
+
+- **billfusion** — Bill / CSV merging · <https://github.com/Zhiyilang/billfusion>
+- **lanshare** — LAN file transfer · <https://github.com/Zhiyilang/lanshare>
+- **csvdiff** — CSV / JSON diff · <https://github.com/Zhiyilang/csvdiff>
+- **md2html** — Markdown to HTML · <https://github.com/Zhiyilang/md2html>
+- **dirsize** — Directory size analyzer · <https://github.com/Zhiyilang/dirsize>
+
+Full portfolio & docs: <https://zhiyilang.github.io/>
