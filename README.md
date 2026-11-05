@@ -142,7 +142,7 @@ SUMMARY: 3 duplicate files across 1 groups, reclaim 4.68 MB
 ---
 
 💝 If dupescan saved you some disk (or time), consider supporting its development:
-**爱发电 / Afdian → https://afdian.com/a/Zhiyilang** · ⭐ Star the repo!
+**爱发电 / Afdian → https://afdian.com/a/Zhiyilang074811** · ⭐ Star the repo!
 
 <!-- cross-links -->
 
